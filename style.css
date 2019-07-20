@@ -294,6 +294,8 @@ html,body{
 		width: 200px;
 		height: 200px;
 		margin-left: 0px;
+		margin-right: 0px;
+		margin-top: 20px;
 	}
 	.content_description .playstore{
 		height: 50px;
