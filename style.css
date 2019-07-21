@@ -94,7 +94,7 @@ html,body{
 	font-family: 'Raleway', sans-serif;
 	max-width: 500px;
 	color: #FFFFFF;
-	font-size: 150%;
+	font-size: 20px;
 	margin-left:100px;
 }
 
@@ -137,10 +137,11 @@ html,body{
 }
 
 .features_detail p{
-	font-size: 13px;
+	font-size: 15px;
 	font-weight: bolder;
 	color: #616161;
 	text-align: center;
+	line-height: 30px;
 }
 
 .feature_create{
