@@ -9,13 +9,13 @@ html,body{
 	width:100%;
 }
 .intro{
-	height:100%;
+	height:auto;
 	width:100%;
 	margin:auto;
 	background: url(app_bg.png) no-repeat 50% 50%;
 	display: table;
 	top:0;
-	padding: 0px;
+	padding-bottom: 20px;
 	background-size: cover;
 }
 .features{
