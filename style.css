@@ -43,15 +43,15 @@ html,body{
 	margin-top: 0px;
 }
 .logo{
-	height: 70px;
-	width: 70px;	
+	height: 75px;
+	width: 75px;	
 }
 .img_app_info{
 	justify-content: flex-end;
 	margin-left: auto;
 	margin-right: 50px;
-	width: 35%;
-	height: 35%;
+	width: 33%;
+	height: 33%;
 }
 .content_description .playstore{
 	height: 50px;
@@ -61,14 +61,14 @@ html,body{
 .content h1{
 	font-family: 'Raleway', sans-serif;
 	color: 	#FFFFFF;
-	font-size: 300%;
+	font-size: 350%;
 	margin: 0px;
 	padding-top: 10px;
 }
 .content h2{
 	font-family: 'Raleway', sans-serif;
 	color: 	#FFFFFF;
-	font-size: 200%;
+	font-size: 250%;
 	margin-top: 50px;
 	padding-top: 20px;
 	margin-left: 100px;
