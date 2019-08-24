@@ -74,12 +74,26 @@
 	</section>
 	<section class="about">
 			<div class="about_privacy_policy">
-				<h3>
+				<a href="#">
+				<h3 id="privacy_policy">
 					Privacy Policy
 				</h3>
-				<h3>
-					Terms of Service
+				</a>
+				<script type="text/javascript">
+    			document.getElementById("privacy_policy").onclick = function () {
+        		location.href = "privacy_policy.html";
+    			};
+				</script>
+				<a href="#">
+				<h3 id="terms_condition">
+					Terms & Conditions
 				</h3>
+				</a>
+				<script type="text/javascript">
+    			document.getElementById("terms_condition").onclick = function () {
+        		location.href = "terms_condition.html";
+    			};
+				</script>
 			</div>
 			<div class="about_copyright">
 				<h3>
